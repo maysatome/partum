@@ -1,7 +1,6 @@
 // Faça um programa que receba o salário de um funcionário e o percentual de aumento,
 // calcule e mostre o valor do aumento e o novo salário.
 
-
 #include<iostream>
 using namespace std;
 int main()
@@ -19,11 +18,14 @@ int main()
     return 0;
 }
 /* Compiling and launching and output are depicted:
-gitpod /workspace/partum $ make exerc04
-g++     exerc04.cpp   -o exerc04
-gitpod /workspace/partum $ ./exerc04
-Por favor, digite seu salário anterior e clique em Enter 1234.56
-Seu novo salário será 1543.2.
+gitpod /workspace/partum $ make exerc05
+make: 'exerc05' is up to date.
+gitpod /workspace/partum $ make exerc05
+g++     exerc05.cpp   -o exerc05
+gitpod /workspace/partum $ ./exerc05
+Por favor, digite seu salário anterior e clique em Enter 55
+Por favor, digite seu percentual de aumento e clique em Enter 100
+Seu novo salário será 110.
 Tenha um bom dia.
 gitpod /workspace/partum $
 */

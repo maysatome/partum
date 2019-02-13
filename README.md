@@ -31,6 +31,8 @@ altura) / 2.
 10. Faça um programa que calcule e mostre a área de um círculo. Sabe-se que: Área = π * r2.
 
 
+https://gitpod.io/#
+
 
 References:
 [1] https://www.amazon.fr/Programming-Principles-Practice-Using-C/dp/0321992784/ref=dp_ob_title_bk

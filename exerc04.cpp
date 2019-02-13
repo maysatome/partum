@@ -10,7 +10,7 @@ int main()
     float sofreu(1.25);
     cout<<"Por favor, digite seu salário anterior e clique em Enter ";
     cin >>salario;
-    salario*=sofreu;
+    salario*=sofreu;//Tricky
     cout << "Seu novo salário será ";
     cout << salario<< "."<<endl;
    cout << "Tenha um bom dia."<<endl;

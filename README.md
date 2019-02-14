@@ -18,17 +18,17 @@ ponderada.
 sabendo-se que este sofreu um aumento de 25%.
 5. Faça um programa que receba o salário de um funcionário e o percentual de aumento, calcule e
 mostre o valor do aumento e o novo salário.
-6. Faça um programa que receba o salário base de um funcionário, calcule e mostre o salário a
-receber, sabendo-se que o funcionário tem gratificação de 5% sobre o salário base e paga
-imposto de 7% sobre este salário.
-7. Faça um programa que receba o salário base de um funcionário, calcule e mostre o seu salário a
-receber, sabendo-se que o funcionário tem gratificação de R$ 50 e paga imposto de 10% sobre o
-salário base.
-8. Faça um programa que receba o valor de um depósito e o valor da taxa de juros, calcule e
-mostre o valor do rendimento e o valor total depois do rendimento.
-9. Faça um programa que calcule e mostre a área de um triângulo. Sabe-se que: Área = (base *
-altura) / 2.
-10. Faça um programa que calcule e mostre a área de um círculo. Sabe-se que: Área = π * r2.
+6. Make a program that receives the base salary (minimum wage/ monthly remuneration) of an employee, calculate and show the salary to receive, knowing that the employee has a bonus (gain more money) of 5% on the base salary and pays 7% tax (interest rate) on this salary.
+
+7. Make a program that receives the base salary (minimum wage/ monthly remuneration) of an employee, calculate and show your salary receivable, knowing that the employee has a bonus of $ 50 (Gained 50 'reais' more. “$” it’s meant “reais”, which represents brazilian Money) and pays (Here, he lost some Money because he need to pay interest rate equal 10%) a 10% tax on the base salary.
+
+8. Make a program that receives the value of a deposit  and the value of the interest rate, calculate and show the value of the yield and the total value after the yield. ##“That’s seems confusing to me. Maybe it’s better to give up this”##. 
+
+9. Make a program that calculates and shows the area of a triangle. It is known that: Area = (base * height) / 2 or   A= b.h/2. 
+
+10. Make a program that calculates and shows the area of a circle. It is known that: Area = π * r2.
+
+
 
 
 https://gitpod.io/#

@@ -9,7 +9,8 @@ int main()
     float pesos_n1(1), pesos_n2(1), pesos_n3(1);
     float media_ponderada(0);
     media_ponderada =(pesos_n1*n1+pesos_n2*n2+pesos_n3*n3)/(pesos_n1+pesos_n2+pesos_n3) ;
-    cout << "e mostre a média ponderada est ";
+    //cout << "e mostre a média ponderada est ";
+    printf("%s", "e mostre a média ponderada est ");
     cout << media_ponderada<<endl;
     return 0;
 }

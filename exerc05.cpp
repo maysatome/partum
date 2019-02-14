@@ -12,8 +12,10 @@ int main()
     cout<<"Por favor, digite seu percentual de aumento e clique em Enter ";
     cin >>sofreu;
     novo_salario = 0.01*salario*(100+sofreu);
-    cout << "Seu novo salário será ";
-    cout << novo_salario << "."<<endl;
+   // cout << "Seu novo salário será ";
+   // cout << novo_salario << "."<<endl;
+    
+    printf("Seu novo salário será %.2f.\n",novo_salario);
    cout << "Tenha um bom dia."<<endl;
     return 0;
 }

@@ -11,9 +11,10 @@ int main()
     cout<<"Por favor, digite seu salário anterior e clique em Enter ";
     cin >>salario;
     salario*=sofreu;//Tricky
-    cout << "Seu novo salário será ";
-    cout << salario<< "."<<endl;
-   cout << "Tenha um bom dia."<<endl;
+    //cout << "Seu novo salário será ";
+    //cout << salario<< "."<<endl;
+   printf("Seu novo salário será %.2f.", salario);
+    cout << "Tenha um bom dia."<<endl;
     return 0;
 }
 /* Compiling and launching and output are depicted:

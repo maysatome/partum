@@ -30,3 +30,17 @@
 *.exe
 *.out
 *.app
+./.git/hooks/pre-rebase.sample
+./.git/hooks/pre-applypatch.sample
+./.git/hooks/commit-msg.sample
+./.git/hooks/update.sample
+./.git/hooks/prepare-commit-msg.sample
+./.git/hooks/applypatch-msg.sample
+./.git/hooks/pre-push.sample
+./.git/hooks/pre-commit.sample
+./.git/hooks/pre-receive.sample
+./.git/hooks/post-update.sample
+./exerc06
+./exerc03
+./exerc07
+./exerc09

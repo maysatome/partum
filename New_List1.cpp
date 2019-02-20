@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdlib.h>
 
 int main ()
 {
@@ -7,7 +8,7 @@ double valor=0.0;
 double dec=0.0, cen=0.0, mil=0.0;
 
  printf("%s", "Por favor, digite o metro e clique em Enter: ");
-scanf("%f",&valor);
+scanf("%lf",&valor);
 
 dec= valor*10.0;
 cen=valor*100.0;

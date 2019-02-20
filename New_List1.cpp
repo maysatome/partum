@@ -1,19 +1,13 @@
-#include <iostream>
-
-using namespace std;
-
+#include <stdio.h>
 
 int main ()
 {
 
-double valor (0.0);
-double dec (0.0), cen(0.0), mil(0.0);
+double valor=0.0;
+double dec=0.0, cen=0.0, mil=0.0;
 
-
-
-cout <<"Por favor, digite o metro e clique em Enter: ";
-cin >> valor;
-
+ printf("%s", "Por favor, digite o metro e clique em Enter: ");
+scanf("%f",&valor);
 
 dec= valor*10.0;
 cen=valor*100.0;

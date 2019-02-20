@@ -7,11 +7,11 @@ int main ()
 {
 
 float valor (0.0);
-int dec (0.0), cen(0.0), mil(0.0);
+int dec (0), cen(0), mil(0);
 
 
 
-cout <<"Por favor, digite o metro e clique em Enter";
+cout <<"Por favor, digite o metro e clique em Enter: ";
 cin >> valor;
 
 
